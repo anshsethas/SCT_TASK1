@@ -2,7 +2,7 @@
 
 ## Task 01 - Caesar Cipher
 
-### 馃搶 Task Objective
+###  Task Objective
 The goal of this task is to implement the **Caesar Cipher Algorithm**, one of the most fundamental and classical encryption techniques in cryptography.  
 The Caesar Cipher works by shifting each letter in a given message by a fixed number of positions in the alphabet.  
 For example, with a shift of 3:
@@ -14,7 +14,7 @@ This project demonstrates how encryption and decryption can be performed using s
 
 ---
 
-### 馃洜锔� Implementation Details
+### Implementation Details
 - Language Used: **Python**
 - Files Included:
   - `task1.py` 鈫� Python program containing Caesar Cipher implementation.
@@ -28,7 +28,7 @@ The program includes two functions:
 
 ---
 
-### 鈿� How It Works
+### How It Works
 - A fixed message (`HELLO WORLD`) and a fixed shift value (`3`) have been used for demonstration.  
 - The text is processed character by character:
   - Alphabetic characters are shifted within their range (`A-Z` or `a-z`).
@@ -37,7 +37,7 @@ The program includes two functions:
 
 ---
 
-### 鈻讹笍 Steps to Run
+### Steps to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/anshsethas/SCT_PY_1.git
