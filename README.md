@@ -1,5 +1,3 @@
-# SkillCraft Technology Internship
-
 ## Task 01 - Caesar Cipher
 
 ###  Task Objective
